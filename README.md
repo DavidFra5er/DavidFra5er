@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Fraser</h1>
+
 <h3 align="center">An ambitious developer exited to start my career in the tech industry.</h3>
+<img align="right" alt="cat coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
 
 - 🔭 I’m currently working on **A data centered project**
 
