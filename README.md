@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Python's Pandas library and Unity**
 
-- 👨‍💻 All of my projects are available at: https://davidfraserportfolio.onrender.com/
+- 👨‍💻 You can view my portfolio here: https://davidfraserportfolio.onrender.com/
 
 - 📫 How to reach me **david@dmfraser.com**
-
-- 📄 Know about my experiences [coming soon](coming soon)
 
 - ⚡ Fun fact **I collect miniature ceramic houses**
 
