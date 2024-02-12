@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python's Pandas library and Unity**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at: https://davidfraserportfolio.onrender.com/
 
 - 📫 How to reach me **david@dmfraser.com**
 
